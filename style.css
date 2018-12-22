@@ -599,7 +599,7 @@ pre {
 .projects-feed .project-content-container::before {
     border-left: 22px solid transparent;
     border-right: 22px solid transparent;
-    border-bottom: 22px solid #bd8c7d;
+    border-bottom: 22px solid #2c2c2c;
     content: '';
     display: block;
     height: 0;
