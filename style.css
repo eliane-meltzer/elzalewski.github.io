@@ -1433,5 +1433,5 @@ color: #bd8c7d;
     font-size: 60px;
 }
 strong {
-font-family: 'quicksandbold';
+font-family: 'quicksandbold' !important;
 }
